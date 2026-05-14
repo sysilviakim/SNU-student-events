@@ -19,3 +19,39 @@
   organizer: "대학원 자치회, 김지은"
   status: "published"
 
+- title: "Princeton-SNU Summer Institute"
+  date: "2026-06-09"
+  time: "09:30-18:30"
+  location: "Wooseok Economy Hall, Building No. 223, Room 504 (우석경제관 504호)"
+  organizer: "Princeton-SNU Summer Institute"
+  description: "Workshop on political science research and methods. Sessions include presentations by Cecilia Mo, Arturas Rozenas, Diana Lee, Jong Hee Park, and Jon Rogowski; a panel discussion on pursuing a PhD in the US led by Jim Bisbee and Hye Young You; and a student poster session."
+  status: "published"
+  tags:
+    - students
+    - methods
+    - political science
+
+- title: "Seoul Political Economy Conference, Day 1"
+  date: "2026-06-10"
+  time: "09:30-17:20"
+  location: "Wooseok Economy Hall, Building No. 223, Room 504 (우석경제관 504호)"
+  organizer: "Seoul Political Economy Conference"
+  description: "Day 1 includes presentations by Karam Kang, Shanker Satyanath, Teppei Yamamoto, Woojin Kim, and Jenn Kim, plus a keynote session by Alessandro Lizzeri."
+  status: "published"
+  tags:
+    - students
+    - political economy
+    - conference
+
+- title: "Seoul Political Economy Conference, Day 2"
+  date: "2026-06-11"
+  time: "09:00-12:00"
+  location: "Wooseok Economy Hall, Building No. 223, Room 504 (우석경제관 504호)"
+  organizer: "Seoul Political Economy Conference"
+  description: "Day 2 includes presentations by Wing Suen, Hulya Eraslan, and Scott Tyson, followed by closing remarks."
+  status: "published"
+  tags:
+    - students
+    - political economy
+    - conference
+
