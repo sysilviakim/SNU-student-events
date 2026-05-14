@@ -3,6 +3,7 @@
   time: "09:30-12:00"
   location: "16-315"
   organizer: "김서영(교수)"
+  description: "GRE 글쓰기의 기초와 첨삭. 공식 학과/학교 행사가 아닌 비공식 워크샵입니다."
   status: "published"
 
 - title: "[대학원생 맞춤형 연구역량 프로그램] R을 활용한 양적연구: 적용, 해석, 보고, 시각화를 중심으로"
@@ -10,6 +11,7 @@
   time: "12:00-15:00"
   location: "TBD"
   organizer: "대학원 자치회, 김서영"
+  description: "R을 활용한 양적연구의 적용, 해석, 보고, 시각화를 다루는 대학원생 맞춤형 연구역량 프로그램입니다."
   status: "published"
 
 - title: "[대학원생 맞춤형 연구역량 프로그램] 양적연구 입문자를 위한 방법론 특강: 좋은 연구질문 발굴하고 발전시키는 법"
@@ -17,6 +19,7 @@
   time: "12:00-15:00"
   location: "TBD"
   organizer: "대학원 자치회, 김지은"
+  description: "양적연구 입문자를 위한 방법론 특강으로, 좋은 연구질문을 발굴하고 발전시키는 방법을 다룹니다."
   status: "published"
 
 - title: "Princeton-SNU Summer Institute"
@@ -49,7 +52,6 @@
   location: "Zoom"
   organizer: "SWERP"
   description: "Presenter: Yong Kyun Kim, Associate Professor, Seoul National University."
-  link: "https://snu-ac-kr.zoom.us/j/89079993887?pwd=YxiJxgPdx8WWRhGRVj2uBCqEhz73lS.1"
   status: "published"
 
 - title: "SWERP: Graduate Student Workshop"
