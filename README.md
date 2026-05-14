@@ -16,7 +16,6 @@ Edit `events.yml` to add or update events. Only events with
   organizer: "김서영(교수)"
   description: "GRE 글쓰기의 기초와 첨삭"
   status: "published"
-  tags: ["students", "gre", "유학"]
 ```
 
 Optional fields:
