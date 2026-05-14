@@ -9,12 +9,12 @@ Edit `events.yml` to add or update events. Only events with
 ## Event Fields
 
 ```yaml
-- title: "GRE Writing 워크샵"
-  date: "2026-06-22"
-  time: "09:30-12:00"
-  location: "16-315"
-  organizer: "김서영(교수)"
-  description: "GRE 글쓰기의 기초와 첨삭"
+- title: "[사회과학연구원] 월례세미나: 김서영, Keep Winning with WinRed? Online Fundraising Platform as the Party’s Public Good"
+  date: "2026-06-02"
+  time: "12:30-14:00"
+  location: "16B-222"
+  organizer: "사회과학연구원"
+  description: "https://www.youtube.com/@snuiss"
   status: "published"
 ```
 
