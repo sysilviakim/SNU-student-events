@@ -107,12 +107,48 @@
   status: "published"
 
 
+- title: "계엄을 돌아본다: 12.3 계엄 이후 1년의 평가"
+  date: "2025-12-03"
+  time: "14:00-18:00"
+  location: "서울대학교 중앙도서관 양두석홀"
+  organizer: "서울대학교 정치외교학부 SNU 10-10 사업단, 한국정치연구소, 국제문제연구소"
+  description: "계엄 1년 후 한국 민주주의와 한국정치의 현주소, 그리고 계엄이 남긴 사회적 과제를 학술적으로 성찰하는 학술회의입니다. 프로그램은 1부 발제/토론, 2부 라운드테이블로 구성됩니다."
+  status: "published"
+
+
+- title: "[정외포럼] 이정철, 북미 친서외교의 독법"
+  date: "2025-11-25"
+  time: "14:00"
+  location: "16-110 (서울대학교 사회과학대학)"
+  organizer: "서울대학교 정치외교학부"
+  description: "정치외교학부 제19차 정외포럼. 발표자: 이정철 교수(서울대 정치외교학부). 참석자에게는 샌드위치와 음료가 제공됩니다(수량 한정, 선착순 제공 예정). 문의: 서울대학교 정치외교학부(02-880-6346)."
+  status: "published"
+
+
 - title: "[SWERP] Leveling the Playing Field: Bureaucratic Revolving Doors for the Marginalized"
   date: "2025-11-07"
   time: "10:00"
   location: "Online"
   organizer: "SWERP"
   description: "Presenter: Kyuwon Lee, Assistant Professor, University of Southern California."
+  status: "published"
+
+
+- title: "[정외포럼] 전재성, 미래 세계정치질서와 권역이론"
+  date: "2025-10-28"
+  time: "12:00"
+  location: "16-312 (사회대 교수대회의실)"
+  organizer: "서울대학교 정치외교학부"
+  description: "2025학년도 2학기 첫 번째 정외포럼. 전재성 교수님께서 최근 저서 『미래 세계정치질서와 권역이론』을 주제로 발표합니다. 샌드위치와 음료가 제공됩니다."
+  status: "published"
+
+
+- title: "정치사상워크숍: Habermas, Blumenberg, and the Battle for Myth in Postwar Germany"
+  date: "2025-10-27"
+  time: "16:00-18:00"
+  location: "TBD"
+  organizer: "SNU 10-10 사업단"
+  description: "10-10 프로젝트가 주최하는 정치사상워크숍. 발표자: 금태연(Tae-Yeon Keum / University of California, Santa Barbara)."
   status: "published"
 
 
