@@ -68,6 +68,15 @@
   description: "Presenter: John V. Kane, Associate Professor, New York University."
   status: "published"
 
+- title: "AI와 사회과학의 미래 세미나: 붕괴인가, 진화인가: AI 시대 사회과학 연구의 생존법"
+  date: "2026-04-27"
+  time: "12:00-14:00"
+  location: "101-220 (아시아연구소 삼익홀)"
+  organizer: "서울대학교 사회과학연구원"
+  description: "AI and the Future of Social Science seminar. Sessions by 김서영 교수(정치외교학부) and 임하진 교수(언론정보학과), moderated by 한윤선 교수(사회복지학과), with discussion by 이건학 교수, 이도훈 교수, and 최승주 교수."
+  link: "https://iss.snu.ac.kr/index.php?page=view&pg=1&idx=281&hCode=BOARD&bo_idx=4&sfl=&stx=&sfc=&bo_rows="
+  status: "published"
+
 - title: "SWERP: Leveling the Playing Field: Bureaucratic Revolving Doors for the Marginalized"
   date: "2025-11-07"
   time: "10:00"
