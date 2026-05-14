@@ -25,3 +25,12 @@ Optional fields:
 - `end_date`: use for multi-day events
 
 Dates should use `YYYY-MM-DD`.
+
+## Publishing Updates
+
+Changes to `events.yml` trigger the website rebuild workflow automatically.
+
+For this to work, this repository needs a repository secret named
+`WEBSITE_DISPATCH_TOKEN`. Use a fine-grained GitHub token that has access to
+`sysilviakim/sysilviakim.github.io` with repository `Contents: read and write`
+permission.
